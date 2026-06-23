@@ -50,7 +50,10 @@ How to use rootmap tools
 
 Before you can run rootmap you need to set execution permission
 
+git clone https://github.com/r00thex/Advance-rootmap-tools.git
+
 chmod +x rootmap.sh
+
 
 Test an URL
 -------
